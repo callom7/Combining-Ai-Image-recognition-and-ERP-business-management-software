@@ -4,6 +4,7 @@ Automated stock counting for Odoo 8 Businesss Management Enterprise Resource Pla
 
 Experiment.bat
 ![](https://i.postimg.cc/HnVZyCGx/image.png)
+
 change the cd to where you placed the yolov5 downloaded from this repository.
 
 Place the downloaded model into the (yolov5) file from this repository
