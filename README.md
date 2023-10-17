@@ -3,10 +3,7 @@ Read for how to use
 Automated stock counting for Odoo 8 Businesss Management Enterprise Resource Planner Software
 
 Experiment.bat
-@echo off
-cd C:\aiImageRecognition3\yolov5
-python detect.py --weights yolov5s.pt --source 1
-pause
+![](https://i.postimg.cc/HnVZyCGx/image.png)
 change the cd to where you placed the yolov5 downloaded from this repository.
 
 Place the downloaded model into the (yolov5) file from this repository
